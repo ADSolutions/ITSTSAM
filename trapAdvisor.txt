@@ -1,0 +1,10 @@
+
+TrapAdvisor
+
+Cap: 1 / 3 / 9
+james: 3 / 6 / 9
+Suerz: 2 / 3 / 6
+Piero: 3 / 4 / 7
+Sbuk: 3 / 10
+Melillo: 3 / 5 
+Jack: 3 / 2 / 7
