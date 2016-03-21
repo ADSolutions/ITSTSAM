@@ -1,7 +1,9 @@
-Damiano Giusti			// 
-Andrea Minato			// Analista - Debug/Test
-Mariana Anitoiu			// 
-Domenico De Gregorio	// QA - Traduttore - 9 - 11
-Mattia Contin			// 
-Michele Bravo			// 
-Adamo Branz				// 
+﻿KDev
+
+Anitoiu	Mariana				→		Project Manager - Q.A.
+Branz Adamo					→		Programmatore - Analista - DBA
+Bravo Michele				→		Grafico - Dba - Creativo
+Contin Mattia				→		UX - Programmatore - Q.A. - CopyWriter
+De Gregorio Domenico		→		Q.A. - DBA - CopyWriter - Traduttore
+Giusti Damiano				→		Programmatore - DBA
+Minato Andrea				→		Analista - Debug/Test
