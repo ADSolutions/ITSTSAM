@@ -1,0 +1,11 @@
+1 - Esperto usabilità
+2 - Grafico
+3 - Programmatore
+4 - Project Manager
+5 - Analista
+6 - Debug / Test
+7 - Q.A.  (quality affordance)
+8 - Legale
+9 - D.B.A. (Database Admin)
+10 - Creativo 
+11 - Copywriter
