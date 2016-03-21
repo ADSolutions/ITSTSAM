@@ -1,7 +1,7 @@
 Damiano Giusti			// 
 Andrea Minato			// Analista - Debug/Test
 Mariana Anitoiu			// 
-Domenico De Gregorio	// QA - Traduttore
+Domenico De Gregorio	// QA - Traduttore - 9 - 11
 Mattia Contin			// 
 Michele Bravo			// 
 Adamo Branz				// 
