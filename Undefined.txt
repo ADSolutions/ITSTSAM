@@ -1,0 +1,21 @@
+<Undefined>
+
+1.Esperto Usabilità
+2.Grafico
+3.Programm3r
+4.Project Manager
+5.Analista
+6.Debug Test
+7.QA
+8.Legale
+9.DMA
+10.Creativo
+11.Copirighter
+
+
+Carlo	3,1
+Fede	3,6,7
+Gabri	5,4,8
+Marco	2,10
+Piero	7,6,1
+Vlady	3,4,9
