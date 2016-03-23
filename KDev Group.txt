@@ -1,4 +1,4 @@
-KDev
+﻿KDev
 
 Anitoiu	Mariana				→		Project Manager - Q.A.
 Branz Adamo					→		Programmatore - Analista - DBA
